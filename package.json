@@ -1,0 +1,21 @@
+{
+    "name": "eslint-plugin-mobx",
+    "version": "0.0.9",
+    "description": "ESLint rules for MobX",
+    "main": "src/index.js",
+    "license": "MIT",
+    "peerDependencies": {
+        "eslint": "^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0"
+    },
+    "devDependencies": {
+        "eslint": "^7.0.0"
+    },
+    "keywords": [
+        "eslint",
+        "eslint-plugin",
+        "eslintplugin",
+        "mobx"
+    ],
+    "scripts": {
+    }
+}
